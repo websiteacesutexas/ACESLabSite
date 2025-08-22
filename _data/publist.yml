@@ -1,0 +1,209 @@
+- title: MoPAC: Efficiently Mitigating Rowhammer with Probabilistic Activation Counting
+  image: dummy.png
+  description: ""
+  authors: S. Vittal, S. Qazi, P. Das, M. Qureshi
+  link:
+    url: ""
+    display: ISCA 2025
+  highlight: 0
+  news2:
+
+- title: Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs
+  image: dummy.png
+  description: ""
+  authors: R. Ghadia, A. Kumar, G. Jain, P. Nair, P. Das
+  link:
+    url: ""
+    display: ICML 2025
+  highlight: 0
+  news2:
+
+- title: HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving
+  image: dummy.png
+  description: ""
+  authors: A. Kumar, S. Nag, J. Clemons, L. John, P. Das
+  link:
+    url: ""
+    display: arXiv 2025
+  highlight: 0
+  news2:
+
+- title: Context Switching for Secure Multi-programming of Near-Term Quantum Computers
+  image: dummy.png
+  description: ""
+  authors: A. Kumar, M. Wang, C. Liu, A. Li, P. Nair, P. Das
+  link:
+    url: ""
+    display: arXiv 2025
+  highlight: 0
+  news2:
+
+- title: COMPASS: Compiler Pass Selection for Improving Fidelity of NISQ Applications
+  image: dummy.png
+  description: ""
+  authors: S. Dangwal, G. Ravi, L. Seifert, P. Das, J. Sud, F. Chong
+  link:
+    url: ""
+    display: ICRC 2024
+  highlight: 0
+  news2:
+
+- title: Qoncord: A Multi-Device Job Scheduling Framework for Variational Quantum Algorithms
+  image: dummy.png
+  description: ""
+  authors: M. Wang, P. Das, P. Nair
+  link:
+    url: ""
+    display: MICRO 2024
+  highlight: 0
+  news2:
+
+- title: Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding
+  image: dummy.png
+  description: ""
+  authors: N. Alavisamani, S. Vittal, R. Ayanzadeh, P. Das, M. Qureshi
+  link:
+    url: ""
+    display: ASPLOS 2024
+  highlight: 0
+  news2:
+
+- title: Élivágar: Efficient Quantum Circuit Search for Classification
+  image: dummy.png
+  description: ""
+  authors: S. Anagolum, N. Alavisamani, P. Das, M. Qureshi, Y. Shi
+  link:
+    url: ""
+    display: ASPLOS 2024
+  highlight: 0
+  news2:
+
+- title: VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms
+  image: dummy.png
+  description: ""
+  authors: S. Dangwal, G. Subramanian Ravi, P. Das, K. Smith, J. Baker, F. Chong
+  link:
+    url: ""
+    display: ASPLOS 2024
+  highlight: 0
+  news2:
+
+- title: ERASER: Practical And Accurate Leakage Suppression for Fault-Tolerant Quantum Computing
+  image: dummy.png
+  description: ""
+  authors: S. Vittal, P. Das, M. Qureshi
+  link:
+    url: ""
+    display: MICRO 2023
+  highlight: 0
+  news2:
+
+- title: Astrea: Accurate Quantum Error-Decoding via Practical Minimum-Weight Perfect Matching
+  image: dummy.png
+  description: ""
+  authors: S. Vittal, P. Das, M. Qureshi
+  link:
+    url: ""
+    display: ISCA 2023
+  highlight: 0
+  news2:
+
+- title: The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs
+  image: dummy.png
+  description: ""
+  authors: P. Das, E. Kessler, Y. Shi
+  link:
+    url: ""
+    display: HPCA 2023
+  highlight: 0
+  news2:
+
+- title: FrozenQubits: Boosting Fidelity of QAOA by Skipping Hotspot Nodes
+  image: dummy.png
+  description: ""
+  authors: R. Ayanzadeh, N. Alavisamani, P. Das, M. Qureshi
+  link:
+    url: ""
+    display: ASPLOS 2023
+  highlight: 0
+  news2:
+
+- title: EQUAL: Improving the Fidelity of Quantum Annealers by Injecting Controlled Perturbations
+  image: dummy.png
+  description: ""
+  authors: R. Ayanzadeh, P. Das, S. Tannu, M. Qureshi
+  link:
+    url: ""
+    display: QCE 2022
+  highlight: 0
+  news2:
+
+- title: LILLIPUT: A Lightweight Low-Latency Lookup-Table Based Decoder for Near-term Quantum Error Correction
+  image: dummy.png
+  description: ""
+  authors: P. Das, A. Locharla, C. Jones
+  link:
+    url: ""
+    display: ASPLOS 2022
+  highlight: 0
+  news2:
+
+- title: HAMMER: Boosting Fidelity of Noisy Quantum Circuits by Exploiting Hamming Behavior of Erroneous Outcomes
+  image: dummy.png
+  description: ""
+  authors: S. Tannu, P. Das, R. Ayanzadeh, M. Qureshi
+  link:
+    url: ""
+    display: ASPLOS 2022
+  highlight: 0
+  news2:
+
+- title: AFS: Accurate, Fast, and Scalable Error-Decoding for Fault-Tolerant Quantum Computers
+  image: dummy.png
+  description: ""
+  authors: P. Das, C. Pattison, S. Manne, D. Carmean, K. Svore, M. Qureshi, N. Delfosse
+  link:
+    url: ""
+    display: HPCA 2022
+  highlight: 0
+  news2:
+
+- title: JigSaw: Boosting Fidelity of NISQ Programs via Measurement Subsetting
+  image: dummy.png
+  description: ""
+  authors: P. Das, S. Tannu, M. Qureshi
+  link:
+    url: ""
+    display: MICRO 2021
+  highlight: 0
+  news2:
+
+- title: ADAPT: Mitigating Idling Errors in Qubits via Adaptive Dynamical Decoupling
+  image: dummy.png
+  description: ""
+  authors: P. Das*, S. Tannu*, S. Dangwal, M. Qureshi
+  link:
+    url: ""
+    display: MICRO 2021
+  highlight: 0
+  news2:
+
+- title: A Case for Multi-programming Quantum Computers
+  image: dummy.png
+  description: ""
+  authors: P. Das, S. Tannu, P. Nair, M. Qureshi
+  link:
+    url: ""
+    display: MICRO 2019
+  highlight: 0
+  news2:
+
+- title: A Case for Superconducting Accelerators
+  image: dummy.png
+  description: ""
+  authors: S. Tannu, P. Das, M. Lewis, R. Krick, D. Carmean, M. Qureshi
+  link:
+    url: ""
+    display: CF 2019
+  highlight: 0
+  news2:

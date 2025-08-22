@@ -1,0 +1,53 @@
+- name: Poulami Das
+  photo: prof_pic.jpg
+  info: Assistant Professor, Fellow of the Advanced Micro Devices (AMD) Chair in Computer Engineering
+  email: poulami.das@utexas.edu
+  office: EER 5.806
+  number_educ: 2
+  education1: Ph.D. Georgia Institute of Technology
+  education2: M.S. The University of Texas at Austin
+  research: Software and architecture for quantum computer reliability, computer architecture, memory systems, and emerging technologies
+
+
+- name: Avinash Kumar
+  photo: avinkumar.jpeg
+  info: Ph.D student, joined Fall 2025
+  email: avinkumar@utexas.edu
+  number_educ: 3
+  education1: M.S. 2025 The University of Texas at Austin
+  education2: B.Tech. 2020 National Institute of Technology, Karnataka, India
+  education3: Research Interests: Systems, Efficient ML
+
+- name: Won Joon Yun
+  photo: won_joon_yun.jpeg
+  info: Ph.D student, joined Fall 2024
+  email: wonjoon.yun@utexas.edu
+  number_educ: 3
+  education1: M.S. 2024 Korea University
+  education2: B.S. 2021 Korea University
+  education3: Research Interests: Compilers for Neutral Atom Quantum Hardware
+
+- name: Ravi Ghadia
+  photo: ravi_ghadia.jpg
+  info: M.S. student, joined Fall 2024
+  email: ghadiaravi13@gmail.com
+  number_educ: 2
+  education1: B.Tech Indian Institute of Technology, Kharagpur, India
+  education2: Research Interests: AI Systems, Efficient LLMs
+
+- name: Dong Whee Kim
+  photo: dongwhee_kim.jpg
+  info: Ph.D student, joined Fall 2025
+  email: dongwhee.kim@utexas.edu
+  number_educ: 3
+  education1: M.S. 2024 Sungkyunkwan University, Korea
+  education2: B.S. 2022 Sungkyunkwan University, Korea
+  education3: Research Interests: Error Correction in Quantum Computing and Memory Systems
+
+- name: Sourish Wawdhane
+  photo: sourish_wawdhane.png
+  info: M.S student, joined Fall 2025
+  email: sourishw@gmail.com
+  number_educ: 2
+  education1: B.S. 2025 The University of Texas at Austin
+  education2: Research Interests: Quantum Software, Efficient LLMs
